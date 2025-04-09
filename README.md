@@ -139,6 +139,7 @@ use data findings.
 Element 1: Gender Diversity
 
 ![image](https://github.com/user-attachments/assets/feb0159b-12bc-488f-920f-a9dbec7081c3)
+
 The authorities can take proactive measures to increase gender diversity. First, they can analyze gender imbalance causes. This investigation may examine recruitment and selection processes, unconscious
 prejudices, and career progression prospects for women in the organization. We can target these gaps by recognizing them and also promoting female hires. This can involve aggressively finding diverse individuals, promoting gender-neutral job descriptions, and
 partnering with women-focused organizations and universities. Mentorship and sponsorship programs can help women advance their careers by providing assistance, networking, and access to senior leaders.
