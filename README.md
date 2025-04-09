@@ -25,3 +25,12 @@ government regulations, policies, and trade agreements can
 have an effect on its operations and market access.
 * IBM's business activities and expansion plans may be
 impacted by political instability in certain regions.
+
+ECONOMICAL:
+* IBM's sales and profitability can be affected by global
+economic factors such as GDP growth, inflation, and
+interest rates.
+* IBM&'s international operations and financial performance
+are susceptible to fluctuations in currency exchange rates.
+* Economic downturns or recessions may cause organizations
+to spend less on IT, thereby affecting IBM's revenue.
