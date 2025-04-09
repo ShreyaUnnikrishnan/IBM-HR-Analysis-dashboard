@@ -128,3 +128,14 @@ privacy rules.
 It's worth noting that this is a general SWOT analysis and that IBM's actual strengths, weaknesses,
 opportunities, and threats may change over time in response to factors, including market
 circumstances, industry trends, and the company's strategic efforts.
+
+IBM’s Human Resource Dashboard
+
+IBM's compensation hikes, diversity, work-life balance, and pay are analyzed in this dashboard. The
+dashboard is expected to identify opportunities for improvement after IBM's HR practices were
+scrutinized and protested. The dashboard will provide leadership with practical insights on how to
+use data findings.
+
+Element 1: Gender Diversity
+![image](https://github.com/user-attachments/assets/feb0159b-12bc-488f-920f-a9dbec7081c3)
+
