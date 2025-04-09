@@ -137,5 +137,6 @@ scrutinized and protested. The dashboard will provide leadership with practical 
 use data findings.
 
 Element 1: Gender Diversity
+
 ![image](https://github.com/user-attachments/assets/feb0159b-12bc-488f-920f-a9dbec7081c3)
 
