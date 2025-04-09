@@ -16,8 +16,12 @@ workplace where diversity is recognized, equitable opportunities are provided, a
 supported in their personal and professional progress.
 
 Strategic analysis of IBM:
+
 PESTEL analysis
-Political- * IBM operates in multiple countries, and alterations in
+
+Political
+
+* IBM operates in multiple countries, and alterations in
 government regulations, policies, and trade agreements can
 have an effect on its operations and market access.
 * IBM's business activities and expansion plans may be
