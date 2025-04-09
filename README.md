@@ -19,8 +19,7 @@ Strategic analysis of IBM:
 
 PESTEL analysis
 
-Political
-
+POLITICAL
 * IBM operates in multiple countries, and alterations in
 government regulations, policies, and trade agreements can
 have an effect on its operations and market access.
