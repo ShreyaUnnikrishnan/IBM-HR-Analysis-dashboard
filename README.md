@@ -151,3 +151,24 @@ might help retain female talent, especially those juggling work and caring.
 Finally, we should set gender diversity goals and track progress. Transparency and accountability will
 help the company achieve gender diversity goals.
 
+Element 2: Department-average age
+
+![image](https://github.com/user-attachments/assets/fc82518a-fbde-440a-ad5a-6e2fd3d3bc61)
+
+IBM HR professionals must examine each department's average age to ensure a diverse and
+inclusive workforce. By analyzing the data, we can learn about our teams' ages and find areas for
+improvement. IBM's staff includes many seasoned experts of all ages. In the Research and
+Development department, the average staff age is 42, reflecting the depth of knowledge and vast
+expertise in technical innovation. Design and User Experience departments, on the other hand, have
+a younger average age of 31.
+From an HR perspective, a good mix of experienced and new hires is crucial. We can use the
+strengths of both age groups by encouraging knowledge transfer and mentorship programs, where
+older staff can teach younger ones. To attract and retain young talent, engage with universities and
+offer internships or entry-level roles. While recognizing and retaining experienced employees,
+efforts can be introduced to assist career advancement and retention.
+By carefully managing age diversity in each department, we can create a dynamic and creative
+atmosphere that benefits from a range of viewpoints, experiences, and ideas. IBM's commitment to
+fostering an inclusive workplace where all workers may thrive and contribute to the company's
+success includes age diversity.
+
+
