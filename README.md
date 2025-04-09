@@ -34,3 +34,10 @@ interest rates.
 are susceptible to fluctuations in currency exchange rates.
 * Economic downturns or recessions may cause organizations
 to spend less on IT, thereby affecting IBM's revenue.
+
+SOCIOCULTURAL:
+* Population size, age distribution, and cultural factors can
+influence IBM's target markets and product demand.
+* Social attitudes towards work, skill development, and
+diversity can influence IBM's talent acquisition, employee
+retention, and human resource strategies.
