@@ -1,5 +1,5 @@
 # IBM-HR-Analysis-dashboard
-Introduction to IBM'S HR commitment:
+**Introduction to IBM'S HR commitment:**
 IBM strives to create a diverse, inclusive, and empowered workplace. Creating a culture of
 inclusiveness, the organization values diversity. IBM supports equal employment opportunity and
 provides fair and equitable employment opportunities for all. Discrimination based on race, color,
@@ -15,18 +15,18 @@ feedback and encourages open dialogue. IBM&#39;s commitments show its dedication
 workplace where diversity is recognized, equitable opportunities are provided, and people are
 supported in their personal and professional progress.
 
-Strategic analysis of IBM:
+**Strategic analysis of IBM:**
 
-PESTEL analysis
+**PESTEL analysis**
 
-POLITICAL:
+**POLITICAL:**
 * IBM operates in multiple countries, and alterations in
 government regulations, policies, and trade agreements can
 have an effect on its operations and market access.
 * IBM's business activities and expansion plans may be
 impacted by political instability in certain regions.
 
-ECONOMICAL:
+**ECONOMICAL:**
 * IBM's sales and profitability can be affected by global
 economic factors such as GDP growth, inflation, and
 interest rates.
@@ -35,14 +35,14 @@ are susceptible to fluctuations in currency exchange rates.
 * Economic downturns or recessions may cause organizations
 to spend less on IT, thereby affecting IBM's revenue.
 
-SOCIOCULTURAL:
+**SOCIOCULTURAL:**
 * Population size, age distribution, and cultural factors can
 influence IBM's target markets and product demand.
 * Social attitudes towards work, skill development, and
 diversity can influence IBM's talent acquisition, employee
 retention, and human resource strategies.
 
-TECHNOLOGICAL:
+**TECHNOLOGICAL:**
 * Rapid technological advances, such as artificial intelligence,
 Cloud computing and cybersecurity can present IBM with
 both opportunities and obstacles.
@@ -50,7 +50,7 @@ both opportunities and obstacles.
 The company to remain competitive in the fast-paced
 technology industry.
 
-ENVIRONMENTAL:
+**ENVIRONMENTAL:**
 *IBM's capacity to protect its intellectual property through
 Patents and copyrights are crucial to maintaining their
 competitive advantage.
@@ -58,7 +58,7 @@ competitive advantage.
 crucial for IBM, as the company handles sensitive customer data
 and organizational data.
 
-LEGAL:
+**LEGAL:**
 *Increasing emphasis on environmental sustainability and
 regulations, pertaining to energy consumption and waste
 management can influence IBM's operations and product
@@ -70,9 +70,9 @@ sustainable practices, as part of its Green Initiatives.
 The degree to which these elements have a role and how much weight they carry may vary from place to place and throughout time. IBM keeps a close eye on these external influences
 and adjusts as needed so that it can successfully traverse the business landscape, taking advantage of opportunities while minimizing risks.
 
-SWOT analysis
+**SWOT analysis**
 
-STRENGTH:
+**STRENGTH:**
 * Brand Recognition: IBM's name is well known and respected worldwide because of the company's impressive track
 record of technological innovation and skill.
 * Technological Leadership: IBM's technological prowess stems
@@ -87,7 +87,7 @@ and markets. IBM puts a lot of money into R&D, which drives
 constant innovation and allows the company to always be at
 the forefront of new technology.
 
-WEAKNESS:
+**WEAKNESS:**
 * Dependence on Legacy Offerings: IBM's old hardware and
 software solutions are still profitable, but they may be
 threatened by the market transition towards cloud computing
@@ -100,7 +100,7 @@ and complexity in offering seamless solutions as a result of the
 wide variety of products and services it offers and the
 companies it has acquired.
 
-OPPURTUNITIES:
+**OPPURTUNITIES:**
 * Cloud Computing: The increasing need for cloud services
 provides IBM with a window of opportunity to strengthen its
 position in the cloud computing market by introducing new
@@ -113,7 +113,7 @@ services can aid in digitally transforming enterprises across
 industries through the adoption of new technologies and the
 improvement of existing ones.
 
-THREATS:
+**THREATS:**
 * Intense Competition: IBM's market dominance and profits are
 threatened by competition from both established tech
 companies and up-and-coming specialists.
@@ -129,7 +129,7 @@ It's worth noting that this is a general SWOT analysis and that IBM's actual s
 opportunities, and threats may change over time in response to factors, including market
 circumstances, industry trends, and the company's strategic efforts.
 
-IBM’s Human Resource Dashboard
+**IBM’s Human Resource Dashboard**
 
 IBM's compensation hikes, diversity, work-life balance, and pay are analyzed in this dashboard. The
 dashboard is expected to identify opportunities for improvement after IBM's HR practices were
@@ -242,6 +242,33 @@ HR can guarantee that the organization's resources are allocated properly by kee
 communication channels and responding to the needs of diverse departments and job functions.
 
 **Element 6: Designation with gender**
+
+![image](https://github.com/user-attachments/assets/0d85154e-2a32-4f5f-b8a5-d53d3a12ede6)
+
+To promote equity and an inclusive workplace, we must investigate gender designation distribution.
+We can identify gender inequalities in different employment roles and take action by analyzing the
+data. IBM has made progress in gender diversity across job roles. Women have increased in
+technological positions like software engineering and data science. However, leadership and
+executive roles are still underrepresented by women. We can emphasize diversity and fairness in
+hiring and appraisal. Diverse sourcing, job descriptions, and interview panels can help attract and
+choose more individuals.
+
+We can use succession planning and talent management to identify and develop high-potential
+female leaders to solve gender gaps in leadership. Leadership development programs, senior
+executive mentoring, and targeted sponsorship can assist build diverse leaders. Monitoring and
+reporting gender representation in job titles can help HR identify areas for development and
+evaluate diversity and inclusion efforts. HR can improve gender representation across all IBM
+designations by setting targets, establishing accountability, and promoting diversity and equitable
+opportunities.
+
+**Conclusion**
+
+Implementing this comprehensive dashboard can provide valuable insights to IBM's upper
+management, enabling them to make informed strategic and HR decisions. With a range of filters
+available, the leadership can analyze data at various levels, from specific subgroups to IBM's overall
+operations. This dashboard is an essential tool for aligning operations with IBM's overall strategy and
+commitments.
+
 
 
 
