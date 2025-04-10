@@ -136,7 +136,7 @@ dashboard is expected to identify opportunities for improvement after IBM's HR p
 scrutinized and protested. The dashboard will provide leadership with practical insights on how to
 use data findings.
 
-Element 1: Gender Diversity
+**Element 1: Gender Diversity**
 
 ![image](https://github.com/user-attachments/assets/feb0159b-12bc-488f-920f-a9dbec7081c3)
 
@@ -151,7 +151,7 @@ might help retain female talent, especially those juggling work and caring.
 Finally, we should set gender diversity goals and track progress. Transparency and accountability will
 help the company achieve gender diversity goals.
 
-Element 2: Department-average age
+**Element 2: Department-average age**
 
 ![image](https://github.com/user-attachments/assets/fc82518a-fbde-440a-ad5a-6e2fd3d3bc61)
 
@@ -170,5 +170,82 @@ By carefully managing age diversity in each department, we can create a dynamic 
 atmosphere that benefits from a range of viewpoints, experiences, and ideas. IBM's commitment to
 fostering an inclusive workplace where all workers may thrive and contribute to the company's
 success includes age diversity.
+
+**Element 3: Growth of wages**
+
+![image](https://github.com/user-attachments/assets/cd6a7229-349b-42eb-87fa-d530f57c11a9)
+
+To achieve equitable compensation and recruit and retain top people, we must examine the average
+wage increment. IBM's merit-based wage increase scheme considers performance, contribution, and
+market considerations. IBM employees receive 2% to 4% wage increases annually. It's vital to
+understand that wage rises rely on individual performance, job position, geographic region, and
+market conditions. IBM rewards employee performance. Performance reviews and evaluations are
+done routinely to analyze staff contributions. As part of IBM's incentive and recognition programs,
+strong performers may get pay raises, promotions, or bonuses.
+IBM also acknowledges the importance of market competitiveness in attracting and keeping
+qualified individuals. Considering job market trends, industry norms, and geographical differences,
+the organization aims to offer competitive salary packages.
+We must ensure salary raise transparency and fairness as HR professionals. We set clear
+performance standards, provide feedback, and discuss compensation issues with staff. We make
+wage modifications based on market benchmarking and analysis to be competitive in the talent
+market. IBM strives to develop a compensation structure that recognizes and rewards workers,
+contributions, promotes performance, and supports the company's success by regularly monitoring
+and assessing salary hikes.
+
+**Element 4: Work-life balance**
+
+![image](https://github.com/user-attachments/assets/f0a0d998-84a5-4777-b31e-75c2be17fff4)
+
+To enhance employee well-being and satisfaction, IBM HR professionals have prioritized work-life
+balance. IBM values work-life balance. The company has several work-life balance rules. IBM offers
+remote work and flexible scheduling to satisfy varied employee needs. This helps people balance
+work and life. IBM also encourages managers and teams to set clear work-life boundaries,
+promoting rest and rejuvenation.
+HR can add to work-life balance. For instance, stress management, mindfulness, and well-being
+programs can help employees with work pressures. Encouraging employees to take vacations and
+granting sabbaticals or personal days can also enhance work-life balance. Employee-HR
+communication and feedback can identify areas for development and adjust work-life balance
+programs to unique requirements. HR may improve work-life balance programs by surveying or
+focusing on employee happiness.
+Fostering a supportive and inclusive workplace culture helps promote work-life balance. HR can host
+workshops or training sessions to teach employees and managers about work-life balance and how
+to foster it. Encouraging open discussions regarding work-life integration and providing guidance on
+handling competing demands can enable people to find a balance. HR can ensure that IBM values
+employee well-being and work-life harmony by regularly analyzing and adapting work-life balance
+programs. Work-life balance promotes employee satisfaction, productivity, engagement, and
+organisational success.
+
+**Element 5: Department and job role**
+
+![image](https://github.com/user-attachments/assets/87cc9c25-a160-4bcb-8828-6d9f6d910db6)
+
+Understanding IBM's staff distribution by department and job description is essential for
+workforce management and resource allocation. IBM's diversified staff across departments
+contributes to its success. HR can spot imbalances and places for improvement by analyzing data.
+For instance, if some departments have a disproportionately large number of personnel,
+restructuring or resource reallocation may be needed to maximize efficiency and productivity. HR
+can also help managers fill employment gaps by recruiting, training, or promoting internal mobility.
+
+HR can use department-specific and job-specific tactics to enhance. To retain and engage high-staff
+departments, HR might emphasize on career development and clear growth tracks. Training,
+mentoring, and succession planning can help people thrive in their departments. HR can recruit
+diverse candidates for underrepresented departments or jobs. Partnering with specialized
+recruitment firms, attending industry-specific job fairs, or using online platforms helps expand the
+candidate pool. HR may also ensure job descriptions and requirements are inclusive and match the
+skills and certifications needed for success.
+
+Cross-functional collaboration can also boost employee engagement and resource allocation.
+Knowledge-sharing meetings, project rotations, and work shadowing can help employees learn
+about other departments and jobs. This encourages teamwork and helps employees learn new skills.
+HR can use workforce distribution monitoring and manager and employee input to make decisions.
+HR can guarantee that the organization's resources are allocated properly by keeping open
+communication channels and responding to the needs of diverse departments and job functions.
+
+**Element 6: Designation with gender**
+
+
+
+
+
 
 
