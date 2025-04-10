@@ -1,5 +1,6 @@
 # IBM-HR-Analysis-dashboard
 **Introduction to IBM'S HR commitment:**
+
 IBM strives to create a diverse, inclusive, and empowered workplace. Creating a culture of
 inclusiveness, the organization values diversity. IBM supports equal employment opportunity and
 provides fair and equitable employment opportunities for all. Discrimination based on race, color,
